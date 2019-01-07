@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">#DIVULGUE</string>
+    <!-- A -->
+    <string name="action_about">Sobre</string>
+    <string name="action_compartilhar">Compartilhar</string>
+    <string name="action_deletar">Deletar</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_salvar">Salvar</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_dialog_text">
+        <![CDATA[
+            <b>Aplicativo #DIVULGUE</b><br>
+            Versao %s<br><br>
+            <a href="http://www.dilerdesenvolv.com">http://dilerdesenvolv.com</a>
+        ]]>
+	</string>
+    <string name="about_dialog_title">#DIVULGUE</string>
+    <string name="auth_firebase_facebook_failed">Autenticação pelo Facebook no Firebase falharam!</string>
+    <string name="auth_firebase_google_failed">Autenticação pelo Google no Firebase falharam!</string>
+    <string name="as_config_nao">As configurações não puderam ser exibidas, favor verifique manualmente</string>
+    <!-- B -->
+    <string name="buscar_carros">Buscar</string>
+    <!-- C -->
+    <string name="carros">#DIVULGUE</string>
+    <string name="configuracoes">Configuraçõeses</string>
+    <string name="classicos">Clássicos</string>
+    <string name="classico">Clássico</string>
+    <!-- D -->
+    <string name="descricao">Descrição</string>
+    <string name="dilermando">Dilermando</string>
+    <string name="di_ler_hotmail_com">di_ler@hotmail.com</string>
+    <!-- E -->
+    <string name="erro_img">Erro ao carregar imagem</string>
+    <string name="esportivos">Esportivos</string>
+    <string name="esportivo">Esportivos</string>
+    <!-- F -->
+    <string name="falhout_tent_nova">Falhou, tente novamente</string>
+    <string name="favoritos">Favoritos</string>
+    <!-- H -->
+    <string name="historico_exc">Histórico de buscas excluído com sucesso</string>
+    <!-- L -->
+    <string name="latitudeLongitude">Latitude / Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="limpar_historico">Limpar histórico</string>
+    <string name="logout">Logout</string>
+    <string name="longitude">Longitude</string>
+    <string name="luxo">Luxo</string>
+    <!-- M -->
+    <string name="mapa">Mapa</string>
+    <string name="msg_sem_internet">Sem internet.</string>
+    <string name="msg_aguarde">Por favor aguarde…</string>
+    <string name="msg_carro_favoritado">Adicionado aos favoritado.</string>
+    <string name="msg_carro_desfavoritado">Removido do favoritados.</string>
+    <string name="msg_carro_salvo">Salvo com sucesso</string>
+    <string name="msg_carro_deletado">Excluído com sucesso</string>
+    <string name="msg_confirma_excluir_carro">Confirma excluir?</string>
+    <string name="msg_carro_excluido">Excluído com sucesso</string>
+    <string name="msg_error_form_nome">Nome é obrigatório</string>
+    <string name="msg_error_form_desc">Descrição é obrigatório</string>
+    <!-- N -->
+    <string name="nao">Não</string>
+    <string name="nav_drawer_username">Dilermando Sik</string>
+    <string name="nav_drawer_email">di_ler@hotmail.com</string>
+    <string name="nenhum_resultado_encontrado">Nenhum resultado encontrado</string>
+    <string name="nenhum_video">Nenhum vídeo encontrado</string>
+    <string name="nome">Nome</string>
+    <string name="novo_carro">Novo</string>
+    <!-- O -->
+    <string name="ok">OK</string>
+    <!-- S -->
+    <string name="sem_conexao_verifique">Sem conexão com a Internet. Por favor, verifique seu Wifi ou Móvel.</string>
+    <string name="site_do_livro">Site do Livro</string>
+    <string name="site_sobre_nos">Site Sobre Nós</string>
+    <string name="sim">Sim</string>
+    <string name="sobre">Sobre</string>
+    <string name="sua_versao_nao_suporta_requestUrl">Sua versao de Android não suporta request?.url</string>
+    <!-- T -->
+    <string name="todos">Todos</string>
+    <!-- U -->
+    <string name="url_video">Vídeo</string>
+    <!-- V -->
+    <string name="vazio" />
+    <string name="video">Vídeo</string>
+    <!-- T -->
+    <string name="tipo">Tipo</string>
+    <string name="tudo">Tudo</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Chave copiada do Google API Console -->
+	<string name="API_KEY"></string>
+
+	<!-- Chave Google Auth -->
+	<string name="GOOGLE_AUTH_PUBLIC_ID"></string>
+	<string name="GOOGLE_WEB_CLIENT_ID"></string>
+
+    <!-- Chave Facebook Auth -->
+    <string name="facebook_app_id"></string>
+    <string name="fb_login_protocol_scheme"></string>
+</resources>
